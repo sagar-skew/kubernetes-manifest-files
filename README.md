@@ -14,3 +14,5 @@ deployment rollback
 kubectl rollout undo deployments nginx-deployment
 kubectl rollout history deployment nginx-deployment
 kubectl rollout history deployment/nginx-deployment --revision=3
+
+git clone https://github.com/GoogleCloudPlatform/training-data-analyst
